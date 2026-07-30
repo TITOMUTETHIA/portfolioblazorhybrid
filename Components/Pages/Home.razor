@@ -1,5 +1,59 @@
 ﻿@page "/"
+@using Microsoft.AspNetCore.Components
 
-<h1>Hello, world!</h1>
+<PageTitle>Home - Portfolio</PageTitle>
 
-Welcome to your new app.
+<div class="home-container">
+    <header class="hero-section">
+        <h1>Welcome to My Portfolio</h1>
+        <p>Hi, I'm Tito — a visionary creator, Blazor developer, and emerging Christian animator.</p>
+        <a class="btn-primary" href="/projects">View My Work</a>
+    </header>
+
+    <section class="about-section">
+        <h2>About Me</h2>
+        <p>
+            I specialize in Blazor, .NET MAUI, and modern web development.
+            My passion is building scalable apps, integrating creative UI/UX, and empowering communities through accessible content.
+        </p>
+    </section>
+
+    <section class="skills-section">
+        <h2>Skills</h2>
+        <ul>
+            <li>Blazor & ASP.NET Core</li>
+            <li>MAUI Hybrid Apps</li>
+            <li>Laravel, Tailwind, Livewire</li>
+            <li>UI/UX Design & Branding</li>
+            <li>Git Workflow Optimization</li>
+        </ul>
+    </section>
+
+    <section class="projects-section">
+        <h2>Featured Projects</h2>
+        <div class="project-card">
+            <h3>Code Champs Studios</h3>
+            <p>A creative hub for NFT development, animation, and digital empowerment.</p>
+            <a href="/projects/codechamps">Learn More</a>
+        </div>
+        <div class="project-card">
+            <h3>Portfolio Blazor Hybrid</h3>
+            <p>Cross-platform app showcasing my journey in Blazor and MAUI.</p>
+            <a href="/projects/portfolio">Learn More</a>
+        </div>
+    </section>
+
+    <footer class="contact-section">
+        <h2>Contact Me</h2>
+        <p>Email: <a href="mailto:titomutethia@gmail.com">titomutethia@gmail.com</a></p>
+        <p>GitHub: <a href="https://github.com/TITOMUTETHIA" target="_blank">TITOMUTETHIA</a></p>
+    </footer>
+</div>
+
+<style>
+    .home-container { padding: 2rem; font-family: Arial, sans-serif; }
+    .hero-section { text-align: center; margin-bottom: 3rem; }
+    .btn-primary { background: #0078d7; color: white; padding: 0.75rem 1.5rem; text-decoration: none; border-radius: 5px; }
+    .about-section, .skills-section, .projects-section, .contact-section { margin-bottom: 2rem; }
+    .project-card { border: 1px solid #ddd; padding: 1rem; margin-bottom: 1rem; border-radius: 5px; }
+</style>
