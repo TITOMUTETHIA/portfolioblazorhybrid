@@ -74,4 +74,16 @@ main[b-6s3h03cu1w] {
         padding-left: 2rem !important;
         padding-right: 1.5rem !important;
     }
+    .footercentre[b-6s3h03cu1w] {
+        position: absolute;
+        bottom: 0; /* sticks to bottom */
+        left: 0;
+        width: 100%; /* spans full width */
+        text-align: center; /* centers text */
+        
+        padding: 1rem;
+        font-size: 0.9rem;
+        color: #555;
+    }
+
 }

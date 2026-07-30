@@ -1,0 +1,31 @@
+/* CSS for Home component */
+
+.home-container[b-msgvu9ph55] {
+    padding: 2rem;
+    font-family: Arial, sans-serif;
+}
+
+.hero-section[b-msgvu9ph55] {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.btn-primary[b-msgvu9ph55] {
+    background: #0078d7;
+    color: white;
+    padding: 0.75rem 1.5rem;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.about-section[b-msgvu9ph55], .skills-section[b-msgvu9ph55], .projects-section[b-msgvu9ph55], .contact-section[b-msgvu9ph55] {
+    margin-bottom: 2rem;
+}
+
+.project-card[b-msgvu9ph55] {
+    border: 1px solid #ddd;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 5px;
+}
+

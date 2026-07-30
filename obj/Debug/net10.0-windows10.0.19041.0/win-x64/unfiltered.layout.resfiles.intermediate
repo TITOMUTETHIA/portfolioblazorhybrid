@@ -2,6 +2,9 @@ wwwroot\_framework\blazor.modules.json
 wwwroot\_framework\blazor.webview.js
 Components\Layout\MainLayout.razor.css
 Components\Layout\NavMenu.razor.css
+Components\Pages\About.razor.css
+Components\Pages\Contacts.razor.css
+Components\Pages\Home.razor.css
 OpenSans-Regular.ttf
 appicon.ico
 appiconLargeTile.scale-100.png
@@ -60,7 +63,7 @@ splashSplashScreen.scale-150.png
 splashSplashScreen.scale-200.png
 splashSplashScreen.scale-400.png
 wwwroot\Portfolio.styles.css
-wwwroot\Portfolio.8ar4kbynh1.bundle.scp.css
+wwwroot\Portfolio.z7wxunmzqq.bundle.scp.css
 AboutAssets.txt
 wwwroot\app.css
 wwwroot\index.html

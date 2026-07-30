@@ -75,6 +75,18 @@ main[b-6s3h03cu1w] {
         padding-left: 2rem !important;
         padding-right: 1.5rem !important;
     }
+    .footercentre[b-6s3h03cu1w] {
+        position: absolute;
+        bottom: 0; /* sticks to bottom */
+        left: 0;
+        width: 100%; /* spans full width */
+        text-align: center; /* centers text */
+        
+        padding: 1rem;
+        font-size: 0.9rem;
+        color: #555;
+    }
+
 }
 /* /Components/Layout/NavMenu.razor.rz.scp.css */
 .navbar-toggler[b-fw0lmtliz2] {
@@ -122,7 +134,7 @@ main[b-6s3h03cu1w] {
 }
 
 .bi-list-nested-nav-menu[b-fw0lmtliz2] {
-    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='white' class='bi bi-list-nested' viewBox='0 0 16 16'%3E%3Cpath fill-rule='evenodd' d='M4.5 11.5A.5.5 0 0 1 5 11h10a.5.5 0 0 1 0 1H5a.5.5 0 0 1-.5-.5zm-2-4A.5.5 0 0 1 3 7h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm-2-4A.5.5 0 0 1 1 3h10a.5.5 0 0 1 0 1H1a.5.5 0 0 1-.5-.5z'/%3E%3C/svg%3E");
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='https://www.flaticon.com/free-icon/phone-call_15329359?term=contacts&page=1&position=15&origin=search&related_id=15329359' width='16' height='16' fill='white' class='bi bi-list-nested' viewBox='0 0 16 16'%3E%3Cpath fill-rule='evenodd' d='M4.5 11.5A.5.5 0 0 1 5 11h10a.5.5 0 0 1 0 1H5a.5.5 0 0 1-.5-.5zm-2-4A.5.5 0 0 1 3 7h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm-2-4A.5.5 0 0 1 1 3h10a.5.5 0 0 1 0 1H1a.5.5 0 0 1-.5-.5z'/%3E%3C/svg%3E");
 }
 
 .nav-item[b-fw0lmtliz2] {
@@ -159,6 +171,12 @@ main[b-6s3h03cu1w] {
     background-color: rgba(255,255,255,0.1);
     color: white;
 }
+.footercentre[b-fw0lmtliz2] {
+    text-align: center;
+    font-size: 0.8rem;
+    color: dodgerblue;
+    padding: 1rem 0;
+}
 
 .nav-scrollable[b-fw0lmtliz2] {
     display: none;
@@ -182,3 +200,112 @@ main[b-6s3h03cu1w] {
         overflow-y: auto;
     }
 }
+/* /Components/Pages/About.razor.rz.scp.css */
+/* CSS for about component */
+.about-container[b-cmwawrimeb] {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 2rem;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    font-family: Arial, sans-serif;
+}
+
+    .about-container h1[b-cmwawrimeb] {
+        text-align: center;
+        margin-bottom: 1.5rem;
+        color: #0078d7;
+    }
+
+    .about-container h2[b-cmwawrimeb] {
+        margin-top: 1.5rem;
+        color: #333;
+    }
+
+    .about-container p[b-cmwawrimeb], .about-container ul[b-cmwawrimeb] {
+        font-size: 1.05rem;
+        line-height: 1.6;
+        color: #444;
+    }
+
+.about-footer[b-cmwawrimeb] {
+    margin-top: 2rem;
+    text-align: center;
+    font-size: 0.95rem;
+    color: #555;
+}
+
+    .about-footer a[b-cmwawrimeb] {
+        color: #0078d7;
+        text-decoration: none;
+    }
+
+        .about-footer a:hover[b-cmwawrimeb] {
+            text-decoration: underline;
+        }
+/* /Components/Pages/Contacts.razor.rz.scp.css */
+/* CSS for Contacts component */
+
+.contacts-container[b-to958ljknr] {
+    max-width: 600px;
+    margin: 2rem auto;
+    padding: 2rem;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    font-family: Arial, sans-serif;
+}
+
+.contacts-container h1[b-to958ljknr] {
+    text-align: center;
+    margin-bottom: 1rem;
+    color: #0078d7;
+}
+
+.contact-item[b-to958ljknr] {
+    margin: 1rem 0;
+    font-size: 1.1rem;
+}
+
+    .contact-item a[b-to958ljknr] {
+        color: #0078d7;
+        text-decoration: none;
+    }
+
+        .contact-item a:hover[b-to958ljknr] {
+            text-decoration: underline;
+        }
+
+/* /Components/Pages/Home.razor.rz.scp.css */
+/* CSS for Home component */
+
+.home-container[b-msgvu9ph55] {
+    padding: 2rem;
+    font-family: Arial, sans-serif;
+}
+
+.hero-section[b-msgvu9ph55] {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.btn-primary[b-msgvu9ph55] {
+    background: #0078d7;
+    color: white;
+    padding: 0.75rem 1.5rem;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.about-section[b-msgvu9ph55], .skills-section[b-msgvu9ph55], .projects-section[b-msgvu9ph55], .contact-section[b-msgvu9ph55] {
+    margin-bottom: 2rem;
+}
+
+.project-card[b-msgvu9ph55] {
+    border: 1px solid #ddd;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 5px;
+}
+
