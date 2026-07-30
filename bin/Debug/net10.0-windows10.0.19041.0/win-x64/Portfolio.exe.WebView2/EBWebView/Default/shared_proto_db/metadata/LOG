@@ -1,2 +1,3 @@
-2026/07/30-21:43:43.353 28f8 Creating DB C:\Users\BIGFISH\source\repos\Portfolio\portfolio\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Portfolio.exe.WebView2\EBWebView\Default\shared_proto_db\metadata since it was missing.
-2026/07/30-21:43:43.579 28f8 Reusing MANIFEST C:\Users\BIGFISH\source\repos\Portfolio\portfolio\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Portfolio.exe.WebView2\EBWebView\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/07/30-21:54:25.827 ea0 Reusing MANIFEST C:\Users\BIGFISH\source\repos\Portfolio\portfolio\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Portfolio.exe.WebView2\EBWebView\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/07/30-21:54:25.828 ea0 Recovering log #3
+2026/07/30-21:54:25.828 ea0 Reusing old log C:\Users\BIGFISH\source\repos\Portfolio\portfolio\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Portfolio.exe.WebView2\EBWebView\Default\shared_proto_db\metadata/000003.log 
