@@ -1,5 +1,4 @@
 ﻿git reset
 git add .
-git commit -m "Initial commit with .gitignore"
+git commit -m "Initial commit with .gitignore
 
-//ignore build artifacts
