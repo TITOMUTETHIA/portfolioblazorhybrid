@@ -573,4 +573,5 @@ C:\Users\BIGFISH\source\repos\Portfolio\portfolio\bin\Debug\net10.0-windows10.0.
 C:\Users\BIGFISH\source\repos\Portfolio\portfolio\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Components\Pages\Contacts.razor.css
 C:\Users\BIGFISH\source\repos\Portfolio\portfolio\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Components\Pages\Home.razor.css
 C:\Users\BIGFISH\source\repos\Portfolio\portfolio\obj\Debug\net10.0-windows10.0.19041.0\win-x64\scopedcss\Components\Pages\Home.razor.rz.scp.css
-C:\Users\BIGFISH\source\repos\Portfolio\portfolio\bin\Debug\net10.0-windows10.0.19041.0\win-x64\wwwroot\Portfolio.z7wxunmzqq.bundle.scp.css
+C:\Users\BIGFISH\source\repos\Portfolio\Portfolio\bin\Debug\net10.0-windows10.0.19041.0\win-x64\wwwroot\Portfolio.v46p4a4a10.bundle.scp.css
+C:\Users\BIGFISH\source\repos\Portfolio\Portfolio\obj\Debug\net10.0-windows10.0.19041.0\win-x64\staticwebassets.upToDateCheck.txt

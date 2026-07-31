@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BIGFISH\\source\\repos\\Portfolio\\portfolio\\Portfolio.csproj": {}
+    "C:\\Users\\BIGFISH\\source\\repos\\Portfolio\\Portfolio\\Portfolio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BIGFISH\\source\\repos\\Portfolio\\portfolio\\Portfolio.csproj": {
+    "C:\\Users\\BIGFISH\\source\\repos\\Portfolio\\Portfolio\\Portfolio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BIGFISH\\source\\repos\\Portfolio\\portfolio\\Portfolio.csproj",
+        "projectUniqueName": "C:\\Users\\BIGFISH\\source\\repos\\Portfolio\\Portfolio\\Portfolio.csproj",
         "projectName": "Portfolio",
-        "projectPath": "C:\\Users\\BIGFISH\\source\\repos\\Portfolio\\portfolio\\Portfolio.csproj",
+        "projectPath": "C:\\Users\\BIGFISH\\source\\repos\\Portfolio\\Portfolio\\Portfolio.csproj",
         "packagesPath": "C:\\Users\\BIGFISH\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BIGFISH\\source\\repos\\Portfolio\\portfolio\\obj\\",
+        "outputPath": "C:\\Users\\BIGFISH\\source\\repos\\Portfolio\\Portfolio\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

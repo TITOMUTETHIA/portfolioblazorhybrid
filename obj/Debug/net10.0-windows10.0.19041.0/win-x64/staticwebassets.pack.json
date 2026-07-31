@@ -9,23 +9,23 @@
       "PackagePath": "staticwebassets\\_framework\\blazor.webview.js"
     },
     {
-      "Id": "C:\\Users\\BIGFISH\\source\\repos\\Portfolio\\portfolio\\obj\\Debug\\net10.0-windows10.0.19041.0\\win-x64\\scopedcss\\bundle\\Portfolio.styles.css",
+      "Id": "C:\\Users\\BIGFISH\\source\\repos\\Portfolio\\Portfolio\\obj\\Debug\\net10.0-windows10.0.19041.0\\win-x64\\scopedcss\\bundle\\Portfolio.styles.css",
       "PackagePath": "staticwebassets\\Portfolio.styles.css"
     },
     {
-      "Id": "C:\\Users\\BIGFISH\\source\\repos\\Portfolio\\portfolio\\wwwroot\\app.css",
+      "Id": "C:\\Users\\BIGFISH\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "C:\\Users\\BIGFISH\\source\\repos\\Portfolio\\portfolio\\wwwroot\\index.html",
+      "Id": "C:\\Users\\BIGFISH\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\Users\\BIGFISH\\source\\repos\\Portfolio\\portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\BIGFISH\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\BIGFISH\\source\\repos\\Portfolio\\portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\BIGFISH\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
