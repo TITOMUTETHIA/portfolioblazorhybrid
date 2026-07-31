@@ -1,0 +1,42 @@
+<style >
+.mywork-container[b-c46wfa6gob] {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 2rem;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    font-family: Arial, sans-serif;
+}
+
+.mywork-container h1[b-c46wfa6gob] {
+    text-align: center;
+    margin-bottom: 1rem;
+    color: #0078d7;
+}
+
+.work-links[b-c46wfa6gob] {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1rem;
+}
+
+.work-card[b-c46wfa6gob] {
+    padding: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    background-color: #fff;
+    font-size: 1.05rem;
+}
+
+    .work-card a[b-c46wfa6gob] {
+        color: #0078d7;
+        text-decoration: none;
+        margin-left: 0.5rem;
+    }
+
+        .work-card a:hover[b-c46wfa6gob] {
+            text-decoration: underline;
+        }
+
+</style[b-c46wfa6gob] >
