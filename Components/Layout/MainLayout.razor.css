@@ -2,10 +2,31 @@
     position: relative;
     display: flex;
     flex-direction: column;
+    min-height: 100vh; /* ensure footer can sit at the bottom */
 }
 
 main {
     flex: 1;
+    display: flex;
+    flex-direction: column; /* make main a column so footer stays after content */
+}
+
+article.content {
+    flex: 1; /* take remaining vertical space so footer is pushed to bottom */
+}
+
+/* Footer styles kept in normal flow to avoid overlapping content */
+footer.contact-section {
+    width: 100%;
+    text-align: center;
+    padding: 1rem 1rem;
+    font-size: 0.9rem;
+    color: #555;
+}
+
+.footercentre {
+    display: block;
+    width: 100%;
 }
 
 .sidebar {
@@ -74,16 +95,6 @@ main {
         padding-left: 2rem !important;
         padding-right: 1.5rem !important;
     }
-    .footercentre {
-        position: absolute;
-        bottom: 0; /* sticks to bottom */
-        left: 0;
-        width: 100%; /* spans full width */
-        text-align: center; /* centers text */
-       
-        padding: 1rem;
-        font-size: 0.9rem;
-        color: #555;
-    }
+
 
 }
