@@ -32,12 +32,12 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>2oxww21958</Fingerprint>
-      <Integrity>jtV6piFFZ+yyPW2+xwac3IhKz+Kgl2jGY7zNRMqoyp4=</Integrity>
+      <Fingerprint>1mpbqd5hon</Fingerprint>
+      <Integrity>aZTehvmSe5ETBBIplpvG9Azepz0cW7krD//zXKqXhOc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <FileLength>890</FileLength>
-      <LastWriteTime>Fri, 31 Jul 2026 18:17:59 GMT</LastWriteTime>
+      <FileLength>1537</FileLength>
+      <LastWriteTime>Sat, 01 Aug 2026 20:07:25 GMT</LastWriteTime>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap.min.css'))">
@@ -92,12 +92,12 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ApplicationBundle</AssetTraitValue>
-      <Fingerprint>2fzsf9wt0u</Fingerprint>
-      <Integrity>ThVM5MEIq1oKt+jFwbvPAe5HOdglux1bDH0HLgkp2us=</Integrity>
+      <Fingerprint>ewp3ilng0x</Fingerprint>
+      <Integrity>IiQeT2wUGrCiBjOqi+mPWBnCvUZxbh8LihgdujYvwco=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <FileLength>9550</FileLength>
-      <LastWriteTime>Sat, 01 Aug 2026 19:53:02 GMT</LastWriteTime>
+      <FileLength>10917</FileLength>
+      <LastWriteTime>Sat, 01 Aug 2026 20:11:51 GMT</LastWriteTime>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Portfolio.styles.css'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\_framework\blazor.modules.json'))">
