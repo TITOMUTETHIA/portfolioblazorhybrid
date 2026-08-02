@@ -1,0 +1,32 @@
+/* CSS for Contacts component */
+
+.contacts-container[b-to958ljknr] {
+    max-width: 600px;
+    margin: 2rem auto;
+    padding: 2rem;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    font-family: Arial, sans-serif;
+}
+
+.contacts-container h1[b-to958ljknr] {
+    text-align: center;
+    margin-bottom: 1rem;
+    color: #0078d7;
+}
+
+.contact-item[b-to958ljknr] {
+    margin: 1rem 0;
+    font-size: 1.1rem;
+}
+
+    .contact-item a[b-to958ljknr] {
+        color: #0078d7;
+        text-decoration: none;
+    }
+
+        .contact-item a:hover[b-to958ljknr] {
+            text-decoration: underline;
+        }
+

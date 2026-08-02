@@ -1,0 +1,10 @@
+<api type="debug" assembly-name="Portfolio" mvid="c601b03660f04eb394b0e1a22e762f88">
+  <java-to-managed>
+    <entry java-name="crc64a8e1f3a32e9fc30f/MainActivity" managed-name="Portfolio.MainActivity, Portfolio" managed-type-token-id="33554441" />
+    <entry java-name="crc64a8e1f3a32e9fc30f/MainApplication" managed-name="Portfolio.MainApplication, Portfolio" managed-type-token-id="33554442" />
+  </java-to-managed>
+  <managed-to-java>
+    <entry java-name="crc64a8e1f3a32e9fc30f/MainActivity" managed-name="Portfolio.MainActivity, Portfolio" managed-type-token-id="33554441" />
+    <entry java-name="crc64a8e1f3a32e9fc30f/MainApplication" managed-name="Portfolio.MainApplication, Portfolio" managed-type-token-id="33554442" />
+  </managed-to-java>
+</api>
