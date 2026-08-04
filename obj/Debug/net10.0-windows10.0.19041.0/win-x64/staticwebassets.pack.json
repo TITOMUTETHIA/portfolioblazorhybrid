@@ -17,8 +17,24 @@
       "PackagePath": "staticwebassets\\app.css"
     },
     {
+      "Id": "C:\\Users\\BIGFISH\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\css\\graffiti-video.css",
+      "PackagePath": "staticwebassets\\css\\graffiti-video.css"
+    },
+    {
+      "Id": "C:\\Users\\BIGFISH\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\css\\graffiti.css",
+      "PackagePath": "staticwebassets\\css\\graffiti.css"
+    },
+    {
       "Id": "C:\\Users\\BIGFISH\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\BIGFISH\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\js\\graffiti.js",
+      "PackagePath": "staticwebassets\\js\\graffiti.js"
+    },
+    {
+      "Id": "C:\\Users\\BIGFISH\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\js\\record-canvas.js",
+      "PackagePath": "staticwebassets\\js\\record-canvas.js"
     },
     {
       "Id": "C:\\Users\\BIGFISH\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",

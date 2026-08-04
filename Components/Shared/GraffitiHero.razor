@@ -1,0 +1,24 @@
+@using Microsoft.JSInterop
+@inject IJSRuntime JS
+
+<div class="graffiti-hero">
+  <canvas id="@CanvasId" class="spray-canvas"></canvas>
+  <div class="tag">
+    <div class="title">@Title</div>
+    <div class="subtitle">@Subtitle</div>
+  </div>
+</div>
+
+@code {
+    [Parameter] public string Title { get; set; } = "Your Name";
+    [Parameter] public string Subtitle { get; set; } = "Portfolio";
+    private string CanvasId = $"spray_{Guid.NewGuid():N}";
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            await JS.InvokeVoidAsync("graffitiInit", CanvasId);
+        }
+    }
+}

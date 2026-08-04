@@ -5,6 +5,19 @@
     min-height: 100vh; /* ensure footer can sit at the bottom */
 }
 
+:root[b-6s3h03cu1w] {
+    --purple-900: #2b024a;
+    --purple-800: #3a0647;
+    --purple-600: #7c3aed;
+    --purple-500: #9f7aea;
+    --purple-200: #ede9fe;
+    --surface: rgba(255,255,255,0.92);
+    --card-bg: rgba(255,255,255,0.9);
+    --muted: #e9d8fd;
+    --text: #1f1143;
+    --accent: var(--purple-600);
+}
+
 main[b-6s3h03cu1w] {
     flex: 1;
     display: flex;
@@ -34,10 +47,11 @@ footer.contact-section[b-6s3h03cu1w] {
 }
 
 /* Use Google Font and a subtle professional background image (Unsplash) */
-:global(body)[b-6s3h03cu1w] {
+body[b-6s3h03cu1w] {
     font-family: 'Poppins', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
-    background-color: #f4f6f8;
-    background-image: linear-gradient(rgba(255,255,255,0.92), rgba(255,255,255,0.92)), url('https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d?auto=format&fit=crop&w=1400&q=80');
+    background-color: var(--purple-200);
+    /* keep the background image but add a purple-tinted overlay for a cohesive theme */
+    background-image: linear-gradient(rgba(122, 65, 198, 0.08), rgba(122, 65, 198, 0.08)), url('https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d?auto=format&fit=crop&w=1400&q=80');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -84,8 +98,8 @@ article.content[b-6s3h03cu1w] {
 }
 
 .top-row[b-6s3h03cu1w] {
-    background-color: #f7f7f7;
-    border-bottom: 1px solid #d6d5d5;
+    background-color: var(--surface);
+    border-bottom: 1px solid var(--muted);
     justify-content: flex-end;
     height: 3.5rem;
     display: flex;
