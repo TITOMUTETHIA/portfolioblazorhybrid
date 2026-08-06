@@ -5,7 +5,7 @@
     min-height: 100vh; /* ensure footer can sit at the bottom */
 }
 
-:global(:root) {
+:root {
     --purple-900: #2b024a;
     --purple-800: #3a0647;
     --purple-600: #7c3aed;
@@ -47,7 +47,7 @@ footer.contact-section {
 }
 
 /* Use Google Font and a subtle professional background image (Unsplash) */
-:global(body) {
+body {
     font-family: 'Poppins', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
     background-color: var(--purple-200);
     /* keep the background image but add a purple-tinted overlay for a cohesive theme */

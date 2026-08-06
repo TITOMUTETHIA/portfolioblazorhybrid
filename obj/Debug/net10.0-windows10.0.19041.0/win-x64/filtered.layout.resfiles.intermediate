@@ -64,9 +64,13 @@ splashSplashScreen.scale-150.png
 splashSplashScreen.scale-200.png
 splashSplashScreen.scale-400.png
 wwwroot\Portfolio.styles.css
-wwwroot\Portfolio.2gv15b5oju.bundle.scp.css
+wwwroot\Portfolio.rwv47i6m53.bundle.scp.css
 AboutAssets.txt
 wwwroot\app.css
+wwwroot\css\graffiti-video.css
+wwwroot\css\graffiti.css
 wwwroot\index.html
+wwwroot\js\graffiti.js
+wwwroot\js\record-canvas.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map

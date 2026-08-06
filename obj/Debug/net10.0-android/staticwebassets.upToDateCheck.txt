@@ -1,10 +1,10 @@
 wwwroot\app.css
-wwwroot\css\graffiti-video.css
-wwwroot\css\graffiti.css
 wwwroot\index.html
-wwwroot\js\graffiti.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\css\graffiti-video.css
+wwwroot\css\graffiti.css
+wwwroot\js\graffiti.js
 wwwroot\js\record-canvas.js
 C:\Users\BIGFISH\.nuget\packages\microsoft.aspnetcore.components.webview\10.0.0\build\..\staticwebassets\blazor.webview.js
 C:\Users\BIGFISH\.nuget\packages\microsoft.aspnetcore.components.webview\10.0.0\build\..\staticwebassets\blazor.modules.json

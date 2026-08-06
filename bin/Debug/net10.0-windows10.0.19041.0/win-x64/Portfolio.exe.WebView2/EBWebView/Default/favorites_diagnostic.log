@@ -16,3 +16,31 @@
 2026-08-02 19:50:19.368: [INFO] OnDoneLoading sync enabled: 0
 2026-08-02 19:51:35.180: [INFO] OnDoneLoading sync enabled: 0
 2026-08-02 21:00:40.474: [INFO] OnDoneLoading sync enabled: 0
+2026-08-04 19:18:57.736: [INFO] CurrentProfilePath: C:\Users\BIGFISH\source\repos\Portfolio\Portfolio\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Portfolio.exe.WebView2\EBWebView\Default
+2026-08-04 19:18:57.736: [INFO] Profiles total count: 1
+2026-08-04 19:18:57.737: [INFO] Profile: name=Profile 1 path=C:\Users\BIGFISH\source\repos\Portfolio\Portfolio\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Portfolio.exe.WebView2\EBWebView\Default lastActive=2026-08-02T21:00:40.729Z
+2026-08-04 19:18:57.737: [INFO] LastUsedProfileDir: C:\Users\BIGFISH\source\repos\Portfolio\Portfolio\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Portfolio.exe.WebView2\EBWebView\Default
+2026-08-04 19:18:57.737: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\BIGFISH\source\repos\Portfolio\Portfolio\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Portfolio.exe.WebView2\EBWebView\Default lastActive=2026-08-02T21:00:40.729Z
+2026-08-04 19:18:57.737: [INFO] OnDoneLoading sync enabled: 0
+2026-08-04 19:18:57.737: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-04 19:18:57.737: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-04 19:18:57.737: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-06 18:23:08.127: [INFO] CurrentProfilePath: C:\Users\BIGFISH\source\repos\Portfolio\Portfolio\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Portfolio.exe.WebView2\EBWebView\Default
+2026-08-06 18:23:08.127: [INFO] Profiles total count: 1
+2026-08-06 18:23:08.128: [INFO] Profile: name=Profile 1 path=C:\Users\BIGFISH\source\repos\Portfolio\Portfolio\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Portfolio.exe.WebView2\EBWebView\Default lastActive=2026-08-05T18:06:56.775Z
+2026-08-06 18:23:08.128: [INFO] LastUsedProfileDir: C:\Users\BIGFISH\source\repos\Portfolio\Portfolio\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Portfolio.exe.WebView2\EBWebView\Default
+2026-08-06 18:23:08.129: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\BIGFISH\source\repos\Portfolio\Portfolio\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Portfolio.exe.WebView2\EBWebView\Default lastActive=2026-08-05T18:06:56.775Z
+2026-08-06 18:23:08.129: [INFO] OnDoneLoading sync enabled: 0
+2026-08-06 18:23:08.129: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-06 18:23:08.129: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-06 18:23:08.129: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-06 18:52:46.652: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-06 18:53:46.410: [INFO] CurrentProfilePath: C:\Users\BIGFISH\source\repos\Portfolio\Portfolio\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Portfolio.exe.WebView2\EBWebView\Default
+2026-08-06 18:53:46.410: [INFO] Profiles total count: 1
+2026-08-06 18:53:46.412: [INFO] Profile: name=Profile 1 path=C:\Users\BIGFISH\source\repos\Portfolio\Portfolio\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Portfolio.exe.WebView2\EBWebView\Default lastActive=2026-08-06T18:52:33.234Z
+2026-08-06 18:53:46.412: [INFO] LastUsedProfileDir: C:\Users\BIGFISH\source\repos\Portfolio\Portfolio\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Portfolio.exe.WebView2\EBWebView\Default
+2026-08-06 18:53:46.412: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\BIGFISH\source\repos\Portfolio\Portfolio\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Portfolio.exe.WebView2\EBWebView\Default lastActive=2026-08-06T18:52:33.234Z
+2026-08-06 18:53:46.412: [INFO] OnDoneLoading sync enabled: 0
+2026-08-06 18:53:46.412: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-06 18:53:46.412: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-06 18:53:46.413: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1

@@ -575,4 +575,8 @@ C:\Users\BIGFISH\source\repos\Portfolio\portfolio\bin\Debug\net10.0-windows10.0.
 C:\Users\BIGFISH\source\repos\Portfolio\portfolio\obj\Debug\net10.0-windows10.0.19041.0\win-x64\scopedcss\Components\Pages\Home.razor.rz.scp.css
 C:\Users\BIGFISH\source\repos\Portfolio\Portfolio\bin\Debug\net10.0-windows10.0.19041.0\win-x64\Components\Pages\MyWork.razor.css
 C:\Users\BIGFISH\source\repos\Portfolio\Portfolio\obj\Debug\net10.0-windows10.0.19041.0\win-x64\scopedcss\Components\Pages\MyWork.razor.rz.scp.css
-C:\Users\BIGFISH\source\repos\Portfolio\Portfolio\bin\Debug\net10.0-windows10.0.19041.0\win-x64\wwwroot\Portfolio.2gv15b5oju.bundle.scp.css
+C:\Users\BIGFISH\source\repos\Portfolio\Portfolio\bin\Debug\net10.0-windows10.0.19041.0\win-x64\wwwroot\Portfolio.rwv47i6m53.bundle.scp.css
+C:\Users\BIGFISH\source\repos\Portfolio\Portfolio\bin\Debug\net10.0-windows10.0.19041.0\win-x64\wwwroot\css\graffiti-video.css
+C:\Users\BIGFISH\source\repos\Portfolio\Portfolio\bin\Debug\net10.0-windows10.0.19041.0\win-x64\wwwroot\css\graffiti.css
+C:\Users\BIGFISH\source\repos\Portfolio\Portfolio\bin\Debug\net10.0-windows10.0.19041.0\win-x64\wwwroot\js\graffiti.js
+C:\Users\BIGFISH\source\repos\Portfolio\Portfolio\bin\Debug\net10.0-windows10.0.19041.0\win-x64\wwwroot\js\record-canvas.js
