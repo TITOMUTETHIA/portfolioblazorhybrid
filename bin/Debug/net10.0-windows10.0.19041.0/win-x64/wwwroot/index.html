@@ -12,5 +12,32 @@
 
   <!-- Required script for Blazor Hybrid (WebView) -->
   <script src="_framework/blazor.webview.js"></script>
+  <!-- Theme management: set initial theme and provide toggle/set functions -->
+  <script>
+    (function(){
+      var root = document.documentElement;
+      var stored = null;
+      try{ stored = localStorage.getItem('theme'); }catch(e){}
+      if(stored === 'theme-dark' || stored === 'theme-light'){
+        root.classList.add(stored);
+      } else {
+        var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+        root.classList.add(prefersDark ? 'theme-dark' : 'theme-light');
+      }
+      // expose functions to toggle or set theme
+      window.setTheme = function(theme){
+        if(theme !== 'theme-light' && theme !== 'theme-dark') return;
+        root.classList.remove('theme-light','theme-dark');
+        root.classList.add(theme);
+        try{ localStorage.setItem('theme', theme); }catch(e){}
+      };
+      window.toggleTheme = function(){
+        var cur = root.classList.contains('theme-dark') ? 'theme-dark' : 'theme-light';
+        window.setTheme(cur === 'theme-dark' ? 'theme-light' : 'theme-dark');
+      };
+      // add transition helper after initial paint
+      requestAnimationFrame(function(){ root.classList.add('theme-transition'); });
+    })();
+  </script>
 </body>
 </html>

@@ -1,6 +1,6 @@
 /* Shared / Stylish CSS for Portfolio Blazor Hybrid */
 :root{
-  /* Color palette */
+  /* Default variables (dark) - will be overridden by .theme-light / .theme-dark classes */
   --bg-1: linear-gradient(135deg,#071021 0%, #0b1224 50%, #0f1728 100%);
   --surface: rgba(255,255,255,0.04);
   --glass: rgba(255,255,255,0.06);
@@ -21,6 +21,26 @@
   --fs: 1rem;
   --fs-lg: 1.15rem;
   --fs-xl: 1.8rem;
+}
+
+/* Theme classes applied to <html> (documentElement). Use 'theme-dark' or 'theme-light' */
+.theme-dark{
+  /* explicit dark values (same as default) */
+  --bg-1: linear-gradient(135deg,#071021 0%, #0b1224 50%, #0f1728 100%);
+  --text: #eaf2f8;
+  --muted: #9aa7b8;
+  --surface: rgba(255,255,255,0.04);
+}
+.theme-light{
+  --bg-1: linear-gradient(135deg,#f8fafb 0%, #eef2f7 100%);
+  --text: #071022;
+  --muted: #475569;
+  --surface: rgba(2,6,23,0.02);
+}
+
+/* Smooth transition when switching themes */
+.theme-transition, .theme-transition *{
+  transition: background .35s ease,color .35s ease,box-shadow .35s ease,border-color .35s ease;
 }
 
 /* Base reset */
@@ -128,3 +148,4 @@ pre{background:rgba(2,6,23,0.42);padding:1rem;border-radius:10px;overflow:auto}
 }
 
 /* Keep selectors low-specificity for performance */
+gi
