@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="css/shared.2wkyvqmgwk.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\shared.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2wkyvqmgwk"},{"Name":"integrity","Value":"sha256-vtpIyIybDzilwxai9bG9iVLYN\u002BMBO/WxvU646ByqwOU="},{"Name":"label","Value":"css/shared.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5668"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022vtpIyIybDzilwxai9bG9iVLYN\u002BMBO/WxvU646ByqwOU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 07 Aug 2026 18:14:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="css/shared.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\shared.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vtpIyIybDzilwxai9bG9iVLYN\u002BMBO/WxvU646ByqwOU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5668"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022vtpIyIybDzilwxai9bG9iVLYN\u002BMBO/WxvU646ByqwOU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 07 Aug 2026 18:14:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

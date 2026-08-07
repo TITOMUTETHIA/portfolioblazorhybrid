@@ -1,7 +1,5 @@
 wwwroot\_framework\blazor.modules.json
 wwwroot\_framework\blazor.webview.js
-Components\Layout\MainLayout.razor.css
-Components\Layout\NavMenu.razor.css
 OpenSans-Regular.ttf
 appicon.ico
 appiconLargeTile.scale-100.png
@@ -59,6 +57,5 @@ splashSplashScreen.scale-125.png
 splashSplashScreen.scale-150.png
 splashSplashScreen.scale-200.png
 splashSplashScreen.scale-400.png
-wwwroot\Portfolio.styles.css
-wwwroot\Portfolio.pistesuasv.bundle.scp.css
 AboutAssets.txt
+wwwroot\css\shared.css

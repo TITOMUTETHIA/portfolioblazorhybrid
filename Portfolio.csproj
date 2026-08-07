@@ -2,7 +2,7 @@
 
     <PropertyGroup>
         <!-- Multi-target so you can run Windows and Android from the same MAUI single-project -->
-        <TargetFrameworks>net10.0-android;net10.0-windows10.0.19041.0</TargetFrameworks>
+        <TargetFrameworks>net10.0-windows10.0.19041.0</TargetFrameworks>
 
 
 		<UseMaui>true</UseMaui>
